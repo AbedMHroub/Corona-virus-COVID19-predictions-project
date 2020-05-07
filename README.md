@@ -27,7 +27,8 @@
 
 **DataSet :** We used data for the **United States** to train our model and we got data for **95 days** that includes the date of the day and the number of people with the disease and for the data of the dead we got data for **60 days** and also includes the date of the day and the number of deaths due to disease.
 
-![2020](https://user-images.githubusercontent.com/36266329/81305534-1d9c7900-9087-11ea-82c4-d794e4c727df.jpg)
+![2020](https://user-images.githubusercontent.com/36266329/81307391-4887cc80-9089-11ea-98f4-e60e45ef6ce7.jpg)
+
 The reference [worldometers](https://www.worldometers.info/coronavirus/country/us/)
 
 
