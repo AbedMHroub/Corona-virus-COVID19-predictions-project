@@ -42,7 +42,7 @@
     ![us_data](https://user-images.githubusercontent.com/36266329/81294029-f0e06580-9076-11ea-9e34-aaa611913a78.png)
 
 ## infected
-When looking for data for the **United States**, we obtained data for 95 days, starting **21/1/2020** , and the number of injured was **one** and we assumed on the first day. The data ended on **25/4/2020**, today is 95, and the number of injured is **788,233**.
+When looking for data for the **United States - Active Cases (Total)**, we obtained data for 95 days, starting **21/1/2020** , and the number of injured was **one** and we assumed on the first day. The data ended on **25/4/2020**, today is 95, and the number of injured is **788,233**.
 
 We took data for **12 days** randomly for the final **test and evaluation stage**. After that we trained the different models, got a **final evaluation** and represented them with **score for each model**.
 
