@@ -71,7 +71,7 @@ We took data for **12 days** randomly for the final **test and evaluation stage*
 After looking at the results, we realize that **the best model is the Artificial Neutral Network (MLPRegressor),** and it has the best score !
 
 ## Deaths
-When searching for data for the **United States**, we obtained data for 60 days, starting on **2/3/2020,** and the number of dead was **6** and we assumed on the first day. The data ended on **4/4/2020**, today 60, and the number of dead **63856**.
+When searching for data for the **United States**, we obtained data for 60 days, starting on **2/3/2020,** and the number of dead was **6** and we assumed on the first day. The data ended on **30/4/2020**, today 60, and the number of dead **63856**.
 
 We took data for **8 days** randomly for the final **test and evaluation stage**. After that we trained the different models, got a **final evaluation** and represented them with **score for each model**.
 
